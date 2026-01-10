@@ -1,5 +1,5 @@
 // ==UserScript==
-// Glofox Cart - Auto Client Selector (Stable)
+// @name         Glofox Cart - Auto Client Selector (Stable)
 // @namespace    glofox
 // @version      1.0
 // @description  Automatycznie wybiera klienta (np. Sigma Sklep Lębork) w koszyku Glofox.
